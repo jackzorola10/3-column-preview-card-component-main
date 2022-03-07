@@ -43,7 +43,11 @@ Users should be able to:
 
 ### Continued development
 
-I was not able to make the buttons align in every screen size, I'm not particularly sure what to do about this. 
+(1) I found myself in the problem that the screen sizes indicated that I should create the screens for Mobile: 375px & Desktop: 1440px, but those differentiations in the media queries simpky did not made the job for me, it made some of the cards look too crammed, so I ended up cutting the screens at 672px, which it seems like it worked much better. 
+
+
+
+(2) I was not able to make the buttons align in every screen size, I'm not particularly sure what to do about this. 
 ![](./screenshot-2.png)
 
 
